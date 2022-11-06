@@ -197,7 +197,7 @@ opciones.push(["CHILE", "SUAZILANDIA", "LESOTO"]);
 opciones.push(["AUSTRALIA", "ISLAS TURCAS Y CAICOS", "GUADALUPE"]);
 opciones.push(["CHAD", "BELGICA", "MAURITANIA"]);
 opciones.push(["TOGO", "BRUNEI", "TONGA"]);
-opciones.push(["MYANMAR", "COSTA RICA", "TAILANDIA"]);
+opciones.push(["MYANMAR", "COSTA RICA", "TAILANDIA"]); 
 opciones.push(["BULGARIA", "TAYIKISTAN", "IRAN"]);
 opciones.push(["GAMBIA", "ZIMBABUE", "TIMOR ORIENTAL"]);
 opciones.push(["ANGOLA", "TURKMENISTAN", "TRINIDAD Y TOBAGO"]);
